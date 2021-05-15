@@ -1,6 +1,6 @@
 # Case Study #1 - Danny's Diner
 
-![]()
+![](https://github.com/imene-swaan/8WeekSQLChallenge/blob/main/Case_Study_1_Dannys_Dinner/case-study-1.png)
 
 
 ## Link : https://8weeksqlchallenge.com/case-study-1/
